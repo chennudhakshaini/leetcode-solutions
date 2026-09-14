@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chennudhakshaini/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/chennudhakshaini/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/chennudhakshaini/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
