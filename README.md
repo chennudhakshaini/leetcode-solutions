@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/chennudhakshaini/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/chennudhakshaini/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/chennudhakshaini/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 ## Geometry
 |  |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/chennudhakshaini/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/chennudhakshaini/leetcode-solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/chennudhakshaini/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
